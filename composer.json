@@ -25,7 +25,5 @@
         "psr-4": {
             "October\\Rain\\Config\\": "src/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
