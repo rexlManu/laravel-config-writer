@@ -1,5 +1,5 @@
 {
-    "name": "daftspunk/laravel-config-writer",
+    "name": "rexlmanu/laravel-config-writer",
     "description": "Laravel provider to be able to rewrite configuration",
     "homepage": "http://octobercms.com",
     "keywords": ["october cms", "october", "laravel", "config", "write", "provider"],
